@@ -233,7 +233,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: "https://github.com/Livelycobra/hazardouspiggi/blob/master/OP.md",
-            rulesLink: ",
+            rulesLink: null,
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
